@@ -1,0 +1,27 @@
+.top{
+    background-color: rgb(132, 235, 235);
+    background-image: url('../images/banner.jpg');
+    /* height: 200px; */
+    text-align: center;
+    /* background-size: cover; */
+    margin-bottom: 20px;
+    padding-left: 40px;
+}
+#name{
+    color: brown;
+}
+.flex-parent{
+    display: flex;
+    background-color: hsl(0, 36%, 95%);
+}
+.flex-child{
+    flex: 1;
+    margin: 10px;
+    padding: 30px;
+    text-align: justify;
+}
+#img{
+    width: 70%;
+    height: 90%;
+    
+}
